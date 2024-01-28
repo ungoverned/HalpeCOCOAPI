@@ -1,6 +1,3 @@
-# distutils: language = c
-# distutils: sources = ../common/maskApi.c
-
 #**************************************************************************
 # Microsoft COCO Toolbox.      version 2.0
 # Data, paper, and tutorials available at:  http://mscoco.org/
